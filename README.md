@@ -14,10 +14,6 @@ This project focuses on detecting anomalies in hospital claim data to enhance pa
 
 ## 📦 Deliverables
 🧠 Report highlighting key areas of concern and suggesting next steps
+
 📊 SQL Analytical Queries -	Aggregations and joins to reveal high-cost patterns
 
-## ⚙️ Tech Stack
-Language: SQL
-Platform: Google BigQuery
-Tools: Google Cloud Console, GitHub
-Version Control: Git
