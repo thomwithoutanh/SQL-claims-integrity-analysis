@@ -7,7 +7,9 @@ This project focuses on detecting anomalies in hospital claim data to enhance pa
 
 ## 🧰 Key Tasks
 ✅ Validate Data Links: Ensure relationships between claims, providers, and members are consistent.
+
 🚩 Flag Anomalies: Detect unusual claim amounts, duplicate entries, or inconsistent procedure codes.
+
 🧹 Clean & Update Data Entries: Remove duplicates, fill missing values, and standardize categorical fields.
 
 ## 📦 Deliverables
