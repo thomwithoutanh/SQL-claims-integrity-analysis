@@ -1,23 +1,22 @@
-🏥 Claims Integrity and Risk Analysis: Enhancing Payout Efficiency
+🏥 # Claims Integrity and Risk Analysis: Enhancing Payout Efficiency
 A SQL BigQuery project completed in my Data Analytics Bootcamp
 Theme: Fraud Detection | Domain: Health Insurance | Audience: Claims & Analytics Department
 
-📋 Overview
+📋 ## Overview
 This project focuses on detecting anomalies in hospital claim data to enhance payout efficiency and reduce financial leakage due to fraudulent or duplicate claims.
 
-🎯 Objective: Use hospital data to identify high-cost areas, verify claims, and reduce overspending.
+🎯 ## Objective: Use hospital data to identify high-cost areas, verify claims, and reduce overspending.
 
-🧰 Key Tasks
+🧰 ## Key Tasks
 ✅ Validate Data Links: Ensure relationships between claims, providers, and members are consistent.
 🚩 Flag Anomalies: Detect unusual claim amounts, duplicate entries, or inconsistent procedure codes.
 🧹 Clean & Update Data Entries: Remove duplicates, fill missing values, and standardize categorical fields.
 
-📦 Deliverables
-Deliverable	Description
-🧠 Fraud Logic Model	Rule-based model to identify suspicious claims
+📦 ## Deliverables
+🧠 Report highlighting key areas of concern and suggesting next steps
 📊 SQL Analytical Queries -	Aggregations and joins to reveal high-cost patterns
 
-⚙️ Tech Stack
+⚙️ ## Tech Stack
 Language: SQL
 Platform: Google BigQuery
 Tools: Google Cloud Console, GitHub
