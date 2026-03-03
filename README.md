@@ -15,5 +15,5 @@ This project focuses on detecting anomalies in hospital claim data to enhance pa
 ## 📦 Deliverables
 🧠 [Report](https://github.com/thomwithoutanh/SQL-claims-integrity-analysis/blob/main/SQL%20Project%20-%20Claims%20Integrity%20and%20Risk%20Analysis.pdf) highlighting key areas of concern and suggesting next steps
 
-📊 SQL Analytical Queries -	Aggregations and joins to reveal high-cost patterns
+📊 [SQL Analytical Queries](https://github.com/thomwithoutanh/SQL-claims-integrity-analysis/blob/main/claims-integrity.sql) -	Aggregations and joins to reveal high-cost patterns
 
