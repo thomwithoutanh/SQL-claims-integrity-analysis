@@ -5,7 +5,7 @@ Theme: Fraud Detection | Domain: Health Insurance | Audience: Claims & Analytics
 ## 📋  Overview
 This project focuses on detecting anomalies in hospital claim data to enhance payout efficiency and reduce financial leakage due to fraudulent or duplicate claims.
 
-## 🎯 Objective: Use hospital data to identify high-cost areas, verify claims, and reduce overspending.
+### 🎯 Objective: Use hospital data to identify high-cost areas, verify claims, and reduce overspending.
 
 ## 🧰 Key Tasks
 ✅ Validate Data Links: Ensure relationships between claims, providers, and members are consistent.
