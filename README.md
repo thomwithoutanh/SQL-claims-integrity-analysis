@@ -1,6 +1,5 @@
 # 🏥  Claims Integrity and Risk Analysis: Enhancing Payout Efficiency
-A SQL BigQuery project completed in my Data Analytics Bootcamp
-Theme: Fraud Detection | Domain: Health Insurance | Audience: Claims & Analytics Department
+A SQL BigQuery project completed for the Data Analytics Bootcamp.
 
 ## 📋  Overview
 This project focuses on detecting anomalies in hospital claim data to enhance payout efficiency and reduce financial leakage due to fraudulent or duplicate claims.
